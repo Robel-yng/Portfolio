@@ -1,3 +1,3 @@
-##My Portfolio
+My Portfolio
 
-#Check out my most recent project and Experience's
+Check out my most recent project and Experience's
